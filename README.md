@@ -1,1 +1,2 @@
 # FlappyBird-JavaScript
+ФУНКЦИОНАЛЬНЫЕ ТРЕБОВАНИЯ
